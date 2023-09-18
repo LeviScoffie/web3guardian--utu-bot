@@ -13,10 +13,10 @@
 
 ## Team Members
 This is a project submission for the [ETHSafari](https://taikai.network/ethsafari/hackathons/ethsafari) Bootckathon competition. The project was executed by a team of 5 namely:
-- [DennoKim](https://github.com/DennohKim) - Team Leader
-- [Badass Techie](badass-techie)
-- Hawa 
-- Hazard Cryptos
+- [Dennis Kimathi](https://github.com/DennohKim) - Team Leader
+- [Moses Odhiambo](badass-techie)
+- [Hawa Maria](https://github.com/HawaMariah)
+- [Hazard](https://github.com/iBrainiac)
 - [Scoffie](https://github.com/LeviScoffie)
 ## Description
 Web3Guardian is a powerful and user-friendly telegram bot that leverages the **UTU** protocol's trust engine to enhance trustworthiness in online digital interactions.
